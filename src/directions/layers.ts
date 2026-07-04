@@ -2,7 +2,7 @@ import type { LayerSpecification } from "maplibre-gl";
 
 /**
  * Builds the
- * {@link https://github.com/smellyshovel/maplibre-gl-directions/blob/main/src/directions/layers.ts#L3|standard
+ * {@link https://github.com/track-asia-vn/trackasia-gl-directions/blob/main/src/directions/layers.ts#L3|standard
  * `MapLibreGlDirections` layers} with optionally scaled features.
  *
  * @param pointsScalingFactor A number to multiply the initial points' dimensions by

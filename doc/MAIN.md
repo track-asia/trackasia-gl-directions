@@ -2,7 +2,7 @@
 
 For the sakes of your convenience, make sure you've enabled the "Inherited" filter only:
 
-![Enabling the "Inherited" filter only](https://raw.githubusercontent.com/maplibre/maplibre-gl-directions/main/doc/images/public-filter.png)
+![Enabling the "Inherited" filter only](https://raw.githubusercontent.com/track-asia-vn/trackasia-gl-directions/main/doc/images/public-filter.png)
 
 ---
 
